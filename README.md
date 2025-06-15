@@ -25,7 +25,7 @@ I'm working on a Discord Bot<br><br>I'm a student<br><br>I am Canadian
 [![](https://visitcount.itsvg.in/api?id=yapalmuffiny&icon=4&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nolancochrane) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nolancochrane) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5TLRXU)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
